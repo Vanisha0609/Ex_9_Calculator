@@ -271,7 +271,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-<img src="https://github.com/user-attachments/assets/11d38252-9339-45cf-b0a8-26cb5e1a8e4b" width="310" height="580">
+<img src="https://github.com/user-attachments/assets/11d38252-9339-45cf-b0a8-26cb5e1a8e4b" width="310" height="580">&ensp;
 <img src="https://github.com/user-attachments/assets/adf86fdc-eab6-4109-bacb-91c714c7f22b" width="310" height="580">
 
 
